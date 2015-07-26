@@ -1,0 +1,364 @@
+<INVENTORY>
+  <ITEM>
+<!-- Plate  1 x  1 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3024</ITEMID>
+    <MINQTY>89</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  3 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3623</ITEMID>
+    <MINQTY>60</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3023</ITEMID>
+    <MINQTY>154</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  4 x  4 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3031</ITEMID>
+    <MINQTY>36</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  2 x  2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3003</ITEMID>
+    <MINQTY>33</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3022</ITEMID>
+    <MINQTY>22</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  1 Round -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4073</ITEMID>
+    <MINQTY>60</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  4 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3020</ITEMID>
+    <MINQTY>32</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  2 without Groove with 1 Centre Stud -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3794A</ITEMID>
+    <MINQTY>28</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3004</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Slope Brick 45  2 x  2 Inverted -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3660</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- =Tile  1 x  1 with Groove -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>30039</ITEMID>
+    <MINQTY>3</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  1 with Studs on Four Sides -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4733</ITEMID>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  1 with Clip Light Type 2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4081B</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  1 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3005</ITEMID>
+    <MINQTY>6</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Slope Brick 45  2 x  1 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3040B</ITEMID>
+    <MINQTY>10</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  3 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3622</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Slope Brick 45  2 x  1 Inverted -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3665</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  2 with Handle -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>2540</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  3 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3623</ITEMID>
+    <MINQTY>60</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  1 Round -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4073</ITEMID>
+    <MINQTY>60</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  1 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3024</ITEMID>
+    <MINQTY>91</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3023</ITEMID>
+    <MINQTY>154</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3022</ITEMID>
+    <MINQTY>22</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  4 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3020</ITEMID>
+    <MINQTY>32</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  4 x  4 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3031</ITEMID>
+    <MINQTY>36</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  2 without Groove with 1 Centre Stud -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3794A</ITEMID>
+    <MINQTY>28</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  2 x  2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3003</ITEMID>
+    <MINQTY>33</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  2 with Handle -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>2540</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- =Tile  1 x  1 with Groove -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>30039</ITEMID>
+    <MINQTY>3</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  1 with Studs on Two Opposite Sides -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>47905</ITEMID>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Panel  1 x  2 x  1 with Square Corners -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4865A</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3004</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Slope Brick 45  2 x  2 Inverted -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3660</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Slope Brick 45  2 x  1 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3040B</ITEMID>
+    <MINQTY>10</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  1 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3005</ITEMID>
+    <MINQTY>6</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  1 with Clip Light Type 2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4081B</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Slope Brick 45  2 x  1 Inverted -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3665</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  3 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3622</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  2 with Groove with 1 Center Stud -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>87580</ITEMID>
+    <MINQTY>32</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  2 with Groove with 1 Center Stud -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>87580</ITEMID>
+    <MINQTY>32</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Tile  2 x  2 with Groove -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3068B</ITEMID>
+    <MINQTY>256</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  6 x  6 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3958</ITEMID>
+    <MINQTY>32</MINQTY>
+    <COLOR>2</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Tile  2 x  2 with Groove -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3068B</ITEMID>
+    <MINQTY>256</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  6 x  6 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3958</ITEMID>
+    <MINQTY>32</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  8 x  8 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>41539</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Baseplate 16 x 32 with Square Corners -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3857</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>85</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Tile  2 x  2 with Groove -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3068B</ITEMID>
+    <MINQTY>100</MINQTY>
+    <COLOR>86</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x 12 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>2445</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>86</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  2 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3022</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>86</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x 16 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4282</ITEMID>
+    <MINQTY>20</MINQTY>
+    <COLOR>86</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  6 -->
+    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3795</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>86</COLOR>
+  </ITEM>
+</INVENTORY>
