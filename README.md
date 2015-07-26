@@ -5,8 +5,8 @@ These are models that I have built using:
 * [LeoCAD](http://www.leocad.org/).
 
 This repository will only include models (or portions of models) that have
-corresponding LDD/LDraw compatible files. Free-hand models will not be posted
-here.
+corresponding LDD/[LDraw](http://www.ldraw.org/) compatible files. Free-hand
+models will not be posted here.
 
 
 File Formats
