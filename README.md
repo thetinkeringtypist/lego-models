@@ -38,7 +38,7 @@ differences between libraries.
 
 License (Terms of Use)
 ----------------------
-Copyright Bezeredi, Evan D.
+Copyright 2015 Bezeredi, Evan D.
 
 Feel free to use these files as you wish. However, should you use a file or
 technique that you found here, please give credit where it is due as well as a
