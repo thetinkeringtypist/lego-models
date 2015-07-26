@@ -13,3 +13,7 @@ Files
 * [enlightened.lxf](./enlightened.lxf) - LDD file
 * [enlightened.ldr](./enlightened.ldr) - LDraw file
 
+
+License
+-------
+Copyright 2014 Bezeredi, Evan D.
