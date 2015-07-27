@@ -1,0 +1,132 @@
+<INVENTORY>
+  <ITEM>
+<!-- Brick  2 x  1 x  1 & 1/3 with Curved Top -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>6091</ITEMID>
+    <MINQTY>68</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Tile  1 x  4 with Groove -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>2431</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  1 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3005</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  3 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3623</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>11</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  3 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3623</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  1 with Headlight -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4070</ITEMID>
+    <MINQTY>22</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  1 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3024</ITEMID>
+    <MINQTY>54</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Tile  1 x  6 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>6636</ITEMID>
+    <MINQTY>3</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  3 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3021</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  4 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3710</ITEMID>
+    <MINQTY>5</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  6 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3795</ITEMID>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  2 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3023</ITEMID>
+    <MINQTY>3</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x 10 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4477</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Brick  1 x  1 with Studs on Two Opposite Sides -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>47905</ITEMID>
+    <MINQTY>18</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  1 Round -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>4073</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>11</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  4 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3020</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>88</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  4 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3710</ITEMID>
+    <MINQTY>4</MINQTY>
+    <COLOR>11</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  2 x  4 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3020</ITEMID>
+    <MINQTY>3</MINQTY>
+    <COLOR>11</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  4 x  4 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3031</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>11</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  4 x  8 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3035</ITEMID>
+    <MINQTY>2</MINQTY>
+    <COLOR>11</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  1 with Tooth -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>49668</ITEMID>
+    <MINQTY>8</MINQTY>
+    <COLOR>1</COLOR>
+  </ITEM>
+  <ITEM>
+<!-- Plate  1 x  4 -->    <ITEMTYPE>P</ITEMTYPE>
+    <ITEMID>3710</ITEMID>
+    <COLOR>5</COLOR>
+  </ITEM>
+</INVENTORY>
