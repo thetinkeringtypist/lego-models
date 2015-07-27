@@ -4,7 +4,7 @@ I believe this was my second creation using LDD (second to a Rubik's Cube that
 was far too large to function properly). I made this back in the fall of 2010.
 I have never built a physical model.
 
-![Domo](./domo.png)
+![Domo](./domo.jpg)
 
 
 Files

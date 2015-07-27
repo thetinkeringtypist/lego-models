@@ -12,10 +12,10 @@ models will not be posted here.
 File Formats
 ------------
 Each folder in this repository will include, at the minimum:
-* README - A description of each model
-* PNG    - A picture of the model
-* LXF    - Used by LDD compatible software
-* LDR    - Used by LDraw compatible software (as outlined in the
+* README  - A description of each model
+* PNG/JPG - A picture of the model
+* LXF     - Used by LDD compatible software
+* LDR     - Used by LDraw compatible software (as outlined in the
 [LDraw File Format Standard](http://www.ldraw.org/article/218.html))
 * XML    - Used by [Bricklink](http://www.bricklink.com/) for mass upload
 
