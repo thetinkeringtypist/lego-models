@@ -1,8 +1,8 @@
 Domo
 ====
-I believe this was my second creation using LDD (second to a Rubik's Cube that
-was far too large to function properly). I made this back in the fall of 2010.
-I have never built a physical model.
+I had a domo plushie sitting on my desk for a little while and I began to
+wonder if I could recreate Domo's mouth with LEGO bricks. I kept going and
+ended up with the files below.
 
 ![Domo](./domo.jpg)
 
