@@ -17,3 +17,6 @@ Files
 License
 -------
 Copyright 2014 Bezeredi, Evan D.
+
+All files are free to use provided that credit is given where it is due as well
+as a link back to this page.
